@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   \[Freenode\] पर काम करने से मुझे कई कौशल अर्जित करने में मदद मिली जिनका उपयोग मैंने बाद में विश्वविद्यालय में अपनी पढ़ाई और अपनी वास्तविक नौकरी के लिए किया। मुझे लगता है कि ओपन सोर्स प्रोजेक्ट्स पर काम करने से मुझे उतना ही फायदा होता है जितना प्रोजेक्ट को मदद मिलती है!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["मुझे ओपन सोर्स सॉफ़्टवेयर में योगदान देना क्यों पसंद है?"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["मुझे ओपन सोर्स सॉफ़्टवेयर में योगदान देना क्यों पसंद है?"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   मैं कोकोपोड्स पर अपने काम के लिए प्रसिद्ध रहा हूं, लेकिन ज्यादातर लोग नहीं जानते कि मैं वास्तव में कोकोपोड्स टूल पर कोई वास्तविक काम नहीं करता हूं। प्रोजेक्ट पर मेरा अधिकांश समय दस्तावेज़ीकरण और ब्रांडिंग पर काम करने में व्यतीत होता है।
   <p markdown="1" class="pquote-credit">
-— @orta, ["डिफ़ॉल्ट रूप से OSS पर जा रहा है"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["डिफ़ॉल्ट रूप से OSS पर जा रहा है"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -201,7 +201,7 @@ related:
 
 आप README को स्कैन कर सकते हैं और एक टूटा हुआ लिंक या कोई टाइपो पा सकते हैं। या आप एक नए उपयोगकर्ता हैं और आपने देखा कि कुछ टूटा हुआ है, या कोई समस्या है जो आपको लगता है कि वास्तव में दस्तावेज़ में होनी चाहिए। इसे नज़रअंदाज़ करने और आगे बढ़ने, या किसी और से इसे ठीक करने के लिए कहने के बजाय, देखें कि क्या आप इसमें योगदान देकर मदद कर सकते हैं। खुले स्रोत का यही मतलब है!
 
-> [28% आकस्मिक योगदान](https://www.igor.pro.br/publica/papers/saner2016.pdf) ओपन सोर्स के लिए दस्तावेज हैं, जैसे टाइपो फिक्स, रिफॉर्मेटिंग, या अनुवाद लिखना।
+> [28% आकस्मिक योगदान](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) ओपन सोर्स के लिए दस्तावेज हैं, जैसे टाइपो फिक्स, रिफॉर्मेटिंग, या अनुवाद लिखना।
 
 यदि आप मौजूदा मुद्दों की तलाश कर रहे हैं जिन्हें आप ठीक कर सकते हैं, तो प्रत्येक ओपन सोर्स प्रोजेक्ट में एक `/contribute` पेज होता है जो शुरुआती-अनुकूल मुद्दों पर प्रकाश डालता है जिनके साथ आप शुरुआत कर सकते हैं। GitHub पर रिपॉजिटरी के मुख्य पृष्ठ पर जाएँ, और URL के अंत में `/contribute` जोड़ें (उदाहरण के लिए [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -216,6 +216,7 @@ related:
 * [Contributor-ninja](https://contributor.ninja)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### योगदान देने से पहले एक चेकलिस्ट
 

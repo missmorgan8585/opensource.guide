@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Η εργασία στο \[freenode\] με βοήθησε να αποκτήσω πολλές από τις δεξιότητες που χρησιμοποίησα αργότερα για τις σπουδές μου στο πανεπιστήμιο και την πραγματική μου δουλειά. Νομίζω ότι η εργασία σε έργα ανοιχτού κώδικα βοηθάει εμένα όσο βοηθάει και το έργο!
   <p markdown="1" class="pquote-credit">
-- @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+- @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Έχω γίνει γνωστός για τη δουλειά μου στο CocoaPods, αλλά οι περισσότεροι άνθρωποι δεν γνωρίζουν ότι στην πραγματικότητα δεν κάνω καμία πραγματική δουλειά στο ίδιο το εργαλείο CocoaPods. Ο χρόνος μου για το έργο αναλώνεται κυρίως σε πράγματα όπως η τεκμηρίωση και η εργασία πάνω στο branding.
   <p markdown="1" class="pquote-credit">
-- @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+- @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -199,7 +199,7 @@ related:
 
 Μπορεί να σκανάρετε ένα README και να βρείτε έναν σπασμένο σύνδεσμο ή ένα τυπογραφικό λάθος. Ή είστε νέος χρήστης και παρατηρήσατε ότι κάτι είναι σπασμένο ή ένα θέμα που πιστεύετε ότι θα έπρεπε πραγματικά να υπάρχει στην τεκμηρίωση. Αντί να το αγνοήσετε και να προχωρήσετε ή να ζητήσετε από κάποιον άλλο να το διορθώσει, δείτε αν μπορείτε να βοηθήσετε με τη συμμετοχή σας. Αυτό είναι το νόημα του ανοιχτού κώδικα!
 
-> Το [28% των περιστασιακών συνεισφορών](https://www.igor.pro.br/publica/papers/saner2016.pdf) στον ανοικτό κώδικα είναι τεκμηρίωση, όπως διόρθωση τυπογραφικών λαθών, αναδιαμόρφωση ή συγγραφή μετάφρασης.
+> Το [28% των περιστασιακών συνεισφορών](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) στον ανοικτό κώδικα είναι τεκμηρίωση, όπως διόρθωση τυπογραφικών λαθών, αναδιαμόρφωση ή συγγραφή μετάφρασης.
 
 Αν ψάχνετε για υπάρχοντα θέματα που μπορείτε να διορθώσετε, κάθε έργο ανοιχτού κώδικα έχει μια σελίδα `/contribute` που επισημαίνει θέματα φιλικά προς τους αρχάριους με τα οποία μπορείτε να ξεκινήσετε. Πλοηγηθείτε στην κεντρική σελίδα του αποθετηρίου στο GitHub και προσθέστε `/contribute` στο τέλος της διεύθυνσης URL (για παράδειγμα [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -213,6 +213,7 @@ related:
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Μια λίστα ελέγχου πριν συνεισφέρετε
 

@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Kufanya kazi kwa \[freenode]\ kulinisaidia kupata ujuzi mwingi nilioutumia baadaye kwa masomo yangu katika chuo kikuu na kazi yangu halisi. Nadhani kufanya kazi kwenye miradi ya Open Source hunisaidia kadiri inavyosaidia mradi!
   <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Sababu yangu kupenda kuchangia programu za Open Source"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Sababu yangu kupenda kuchangia programu za Open Source"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ Dhana potofu ya kawaida kuhusu kuchangia Open Source ni kwamba unahitaji kuchang
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Nimekuwa maarufu kwa kazi yangu kwenye CocoaPods, lakini watu wengi hawajui kuwa sifanyi kazi yoyote halisi kwenye zana ya CocoaPods yenyewe. Wakati wangu kwenye mradi huo hutumiwa sana kufanya vitu kama nyaraka na kufanya kazi kwenye chapa.
   <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Kujiingiza kwa OSS kwa chaguo-msingi"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Kujiingiza kwa OSS kwa chaguo-msingi"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -89,7 +89,7 @@ Hata kama ungependa kuandika msimbo, aina nyingine za michango ni njia nzuri ya 
 
 * Andika na uboreshe nyaraka za mradi, [kama @CBID2 alivyofanya kwa nyaraka za OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Andaa folda ya mifano inayoonyesha jinsi mradi unavyotumika
-* Anzisha jarida la mradi, au kusanya mambo muhimu kutoka kwenye orodha ya barua, [kama @opensauced alivyofanya kwa bidhaa yao](https://news.opensauced.pizza/about/)
+* Anzisha jarida la mradi, au kusanya mambo muhimu kutoka kwenye orodha ya barua, [kama @opensauced alivyofanya kwa bidhaa yao](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * Andika mafunzo kwa mradi, [kama wachangiaji wa PyPA walivyofanya](https://packaging.python.org/)
 * Andika tafsiri ya nyaraka za mradi, [kama @frontendwizard alivyofanya kwa maelekezo ya changamoto ya CSS Flexbox ya freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
@@ -209,7 +209,7 @@ Open Source si klabu ya kipekee; inatengenezwa na watu kama wewe. "Open Source" 
 
 Unaweza kuangalia README na kupata kiungo kilichovunjika au makosa ya tahajia. Au wewe ni mtumiaji mpya na umeona kitu kilichovunjika, au suala ambalo unafikiri linapaswa kuwa kwenye nyaraka. Badala ya kupuuza na kuendelea, au kumuuliza mtu mwingine akirekebishe, angalia ikiwa unaweza kusaidia kwa kuchangia. Hiyo ndiyo maana ya Open Source!
 
-> Kulingana na utafiti uliofanywa na Igor Steinmacher na watafiti wengine wa Sayansi ya Kompyuta, [28% ya michango ya kawaida](https://www.igor.pro.br/publica/papers/saner2016.pdf) kwenye Open Source ni nyaraka, kama vile marekebisho ya makosa ya tahajia, urekebishaji, au kuandika tafsiri.
+> Kulingana na utafiti uliofanywa na Igor Steinmacher na watafiti wengine wa Sayansi ya Kompyuta, [28% ya michango ya kawaida](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) kwenye Open Source ni nyaraka, kama vile marekebisho ya makosa ya tahajia, urekebishaji, au kuandika tafsiri.
 
 Ikiwa unatafuta masuala yaliyopo ambayo unaweza kurekebisha, kila mradi wa Open Source una ukurasa wa `/contribute` unaoangazia masuala nyepesi kwa waanziaji ambayo unaweza kuanza nayo. Tembelea ukurasa wa msingi wa hazina kwenye GitHub, na ongeza `/contribute` mwishoni mwa URL (kwa mfano [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -223,7 +223,7 @@ Unaweza pia kutumia moja ya rasilimali zifuatazo kukusaidia kugundua na kuchangi
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Orodha ya ukaguzi kabla ya kuchangia
 
@@ -509,7 +509,7 @@ Ikiwa utatoa ukumbusho wa adabu na bado hujapata jibu, inawezekana kwamba hakuna
 
 Ni kawaida kwamba utaombwa kufanya mabadiliko kwenye mchango wako, iwe ni maoni kuhusu wigo wa wazo lako, au mabadiliko kwenye msimbo wako.
 
-Wakati mtu anapohitaji mabadiliko, kuwa na majibu. Wamechukua muda wao kupitia mchango wako. Kufungua PR na kuondoka ni tabia mbaya. Ikiwa hujui jinsi ya kufanya mabadiliko, tafuta tatizo, kisha uliza msaada ikiwa unahitaji. Mfano mzuri wa hii ni [maoni ambayo mchangiaji mwingine ametoa kwa @a-m-lamb kwenye ombi lao la kuvuta kwenye nyaraka za Codecademy](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
+Wakati mtu anapohitaji mabadiliko, kuwa na majibu. Wamechukua muda wao kupitia mchango wako. Kufungua PR na kuondoka ni tabia mbaya. Ikiwa hujui jinsi ya kufanya mabadiliko, tafuta tatizo, kisha uliza msaada ikiwa unahitaji.
 
 Ikiwa huna muda wa kufanya kazi kwenye suala hilo tena kutokana na sababu kama mazungumzo yamekuwa yakiendelea kwa miezi, na hali zako zimebadilika au huwezi kupata suluhisho, mwambie mtunzaji ili waweze kufungua suala hilo kwa mtu mwingine, kama [@RitaDee alivyofanya kwa suala katika hazina ya programu ya OpenSauced](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 

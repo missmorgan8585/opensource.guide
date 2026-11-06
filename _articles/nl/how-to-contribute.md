@@ -18,7 +18,7 @@ related:
   
   _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Waarom ik graag bijdraag aan open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Waarom ik graag bijdraag aan open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -71,7 +71,7 @@ Een veel voorkomende misvatting over bijdragen aan open source is dat je code mo
   _I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
   
   <p markdown="1" class="pquote-credit">
-— @orta, ["Standaard naar OSS gaan"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Standaard naar OSS gaan"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -209,7 +209,7 @@ Open source is geen exclusieve club; het is gemaakt door mensen zoals jij. "Open
 
 U kunt een README lezen en een incorrecte link of typefout vinden. Of je bent een nieuwe gebruiker en je hebt gemerkt dat er iets kapot is, of een probleem waarvan je denkt dat het echt in de documentatie zou moeten staan. In plaats van het te negeren en verder te gaan, of iemand anders te vragen om het op te lossen, kijk of je kunt helpen door mee te doen. Dat is waar het bij open source om draait!
 
-> [28% van de losse bijdragen](https://www.igor.pro.br/publica/papers/saner2016.pdf) aan open source zijn documentatie, zoals een typefout, herformattering of het schrijven van een vertaling.
+> [28% van de losse bijdragen](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) aan open source zijn documentatie, zoals een typefout, herformattering of het schrijven van een vertaling.
 
 Als u op zoek bent naar bestaande problemen die u kunt oplossen, heeft elk open source-project een '/ contribute'-pagina die beginnersvriendelijke problemen belicht waarmee u kunt beginnen. Navigeer naar de hoofdpagina van de repository op GitHub en voeg '/ contribute' toe aan het einde van de URL (bijvoorbeeld [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -223,6 +223,7 @@ U kunt ook een van de volgende bronnen gebruiken om u te helpen bij het ontdekke
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Een checklist voordat u bijdraagt
 

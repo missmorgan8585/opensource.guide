@@ -23,7 +23,7 @@ related:
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -76,7 +76,7 @@ O neînțelegere comună despre contribuirea la open source este că trebuie să
     </em>
   </p>
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -225,9 +225,9 @@ Open source nu este un club exclusivist; el este făcut din oameni exact ca tine
 
 Ai putea scana un README sau găsi un link stricat sau o greșeală gramaticală. Sau ești un nou utilizator și ai observat că ceva este stricat, sau o problemă despre care crezi că într-adevăr ar trebui să fie în documentație. În loc de a o ignora sau de a trece mai departe, sau a cere altcuiva să o rezolve, vezi dacă poți ajuta pășind înăuntru. Despre aceasta este tot open source!
 
-> [28% din contribuțiile ocazionale](https://www.igor.pro.br/publica/papers/saner2016.pdf) la open source sunt documentație, cum ar fi o corectare gramaticală, reformatare, sau scrierea unei traduceri.
+> [28% din contribuțiile ocazionale](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) la open source sunt documentație, cum ar fi o corectare gramaticală, reformatare, sau scrierea unei traduceri.
 > 
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% of casual contributions](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
 Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să descoperi și să contribui la noi proiecte:
 
@@ -239,6 +239,7 @@ Poți de asemenea folosi una dintre următoarele resurse pentru a te ajuta să d
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### O listă de verificare înainte de a contribui
 

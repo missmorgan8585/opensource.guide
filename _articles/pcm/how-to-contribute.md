@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ A common misconception about contributing to open source is that you need to con
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -89,7 +89,7 @@ Even if you like to write code, other types of contributions are a great way to 
 
 * Write and improve the project's documentation, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
 * Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
+* Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * Write tutorials for the project, [like PyPA's contributors did](https://packaging.python.org/)
 * Write a translation for the project's documentation, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
@@ -209,7 +209,7 @@ Open source isn't an exclusive club; it's made by people just like you. "Open so
 
 You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
 
-> According to a study conducted by Igor Steinmacher and other Computer Science researchers, [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as typo fixes, reformatting, or writing a translation.
+> According to a study conducted by Igor Steinmacher and other Computer Science researchers, [28% of casual contributions](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) to open source are documentation, such as typo fixes, reformatting, or writing a translation.
 
 If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -223,7 +223,7 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### A checklist before you contribute
 
@@ -509,7 +509,7 @@ If you give a polite reminder and still do not receive a response, it's possible
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it. A good example of this would be [the feedback that another contributor has given to @a-m-lamb on their pull request to Codecademy's Docs](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
+When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it.
 
 If you don't have time to work on the issue anymore due to reasons such as the conversation has been going on for months, and your circumstances have changed or you're unable to find a solution, let the maintainer know so that they can open the issue for someone else, like [@RitaDee did for an issue at OpenSauced's app repository](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 

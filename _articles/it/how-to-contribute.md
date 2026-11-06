@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Lavorare su \[freenode\] mi ha aiutato ad acquisire molte delle competenze che poi ho utilizzato per i miei studi universitari e per il mio lavoro vero e proprio. Penso che lavorare su progetti open source mi aiuti tanto quanto il progetto stesso!
   <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Perché amo contribuire al software open source"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Perché amo contribuire al software open source"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ Un malinteso comune riguardo al contributo all'open source è che si debba contr
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Sono conosciuto per il mio lavoro su CocoaPods, ma la maggior parte delle persone non sa che in realtà non svolgo alcun lavoro reale sullo strumento CocoaPods stesso. Il mio tempo nel progetto è dedicato principalmente a cose come la documentazione e il lavoro di branding.
   <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Passa a OSS per impostazione predefinita"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Passa a OSS per impostazione predefinita"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -89,7 +89,7 @@ Anche se ti piace scrivere codice, altri tipi di contributi sono un ottimo modo 
 
 * Scrivi e migliora la documentazione del progetto, [come ha fatto @CBID2 per la documentazione di OpenSauced](https://github.com/open-sauced/docs/pull/151)
 * Preparare una cartella di esempi che mostrano come viene utilizzato il progetto
-* Avvia una newsletter del progetto o cura i punti salienti della mailing list, [come ha fatto @opensauced per il suo prodotto](https://news.opensauced.pizza/about/)
+* Avvia una newsletter del progetto o cura i punti salienti della mailing list, [come ha fatto @opensauced per il suo prodotto](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * Scrivi tutorial per il progetto, [come hanno fatto i contributori PyPA](https://packaging.python.org/)
 * Scrivi una traduzione per la documentazione del progetto, [come ha fatto @frontendwizard per le istruzioni CSS Flexbox della sfida freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
@@ -209,7 +209,7 @@ L'open source non è un club esclusivo; è fatto da persone proprio come te. "Op
 
 È possibile eseguire la scansione del README e trovare un collegamento interrotto o un errore di battitura. O sei un nuovo utente e hai notato che qualcosa non funziona, oppure c'è un problema che ritieni dovrebbe essere presente nella documentazione. Invece di ignorarlo e andare avanti o chiedere a qualcun altro di risolverlo, vedi se puoi aiutare partecipando. Ecco cos'è l'open source!
 
-> Secondo uno studio di Igor Steinmacher e altri ricercatori di informatica, [il 28% dei contributi accessori](https://www.igor.pro.br/publica/papers/saner2016.pdf) in open source sono documenti, come come correzioni di errori di battitura, riformattazione o scrittura di traduzioni.
+> Secondo uno studio di Igor Steinmacher e altri ricercatori di informatica, [il 28% dei contributi accessori](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) in open source sono documenti, come come correzioni di errori di battitura, riformattazione o scrittura di traduzioni.
 
 Se stai cercando problemi esistenti che puoi risolvere, ogni progetto open source ha una pagina "/contribute" che evidenzia problemi adatti ai principianti con cui puoi iniziare. Vai alla pagina principale del repository GitHub e aggiungi "/contribute" alla fine dell'URL (ad es.[`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -223,7 +223,7 @@ Puoi anche utilizzare una delle seguenti risorse per aiutarti a scoprire e contr
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Lista di controllo prima di contribuire
 
@@ -509,7 +509,7 @@ Se fai un cortese promemoria e continui a non ricevere risposta, è possibile ch
 
 È comune che ti venga chiesto di apportare modifiche al tuo contributo, che si tratti di feedback sulla portata della tua idea o di modifiche al tuo codice.
 
-Quando qualcuno chiede modifiche, sii reattivo. Si sono presi il tempo per rivedere il tuo contributo. Aprire un PR e andarsene è una cattiva forma. Se non sai come apportare modifiche, ricerca il problema e poi chiedi aiuto se ne hai bisogno. Un buon esempio di ciò potrebbe essere [il feedback che un altro collaboratore ha dato a @a-m-lamb sulla sua richiesta di pull ai documenti Codecademy](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
+Quando qualcuno chiede modifiche, sii reattivo. Si sono presi il tempo per rivedere il tuo contributo. Aprire un PR e andarsene è una cattiva forma. Se non sai come apportare modifiche, ricerca il problema e poi chiedi aiuto se ne hai bisogno.
 
 Se non hai più tempo per lavorare sul problema perché la conversazione va avanti da mesi e le tue circostanze sono cambiate o non riesci a trovare una soluzione, informa un manutentore in modo che possa aprire il problema a qualcun altro , come ha fatto [@RitaDee per un problema nelle applicazioni OpenSauced](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 

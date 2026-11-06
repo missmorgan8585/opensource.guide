@@ -14,9 +14,9 @@ related:
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
-  Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
+  Working on [freenode] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!
   <p markdown="1" class="pquote-credit">
-— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— [@errietta](https://github.com/errietta), ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -26,7 +26,7 @@ Why do people contribute to open source? Plenty of reasons!
 
 ### Improve software you rely on
 
-Lots of open source contributors start by being users of software they contribute to. When you find a bug in an open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
+Lots of open source contributors start by being users of software they contribute to. When you find a bug in open source software you use, you may want to look at the source to see if you can patch it yourself. If that's the case, then contributing the patch back is the best way to ensure that your friends (and yourself when you update to the next release) will be able to benefit from it.
 
 ### Improve existing skills
 
@@ -34,7 +34,7 @@ Whether it's coding, user interface design, graphic design, writing, or organizi
 
 ### Meet people who are interested in similar things
 
-Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late night online chats about burritos.
+Open source projects with warm, welcoming communities keep people coming back for years. Many people form lifelong friendships through their participation in open source, whether it's running into each other at conferences or late-night online chats about burritos.
 
 ### Find mentors and teach others
 
@@ -48,7 +48,7 @@ By definition, all of your open source work is public, which means you get free 
 
 Open source offers opportunities to practice leadership and management skills, such as resolving conflicts, organizing teams of people, and prioritizing work.
 
-### It's empowering to be able to make changes, even small ones
+### It's empowering to make changes, even small ones
 
 You don't have to become a lifelong contributor to enjoy participating in open source. Have you ever seen a typo on a website, and wished someone would fix it? On an open source project, you can do just that. Open source helps people feel agency over their lives and how they experience the world, and that in itself is gratifying.
 
@@ -66,7 +66,7 @@ A common misconception about contributing to open source is that you need to con
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   I’ve been renowned for my work on CocoaPods, but most people don’t know that I actually don’t do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding.
   <p markdown="1" class="pquote-credit">
-— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— [@orta](https://github.com/orta), ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -89,13 +89,13 @@ Even if you like to write code, other types of contributions are a great way to 
 
 * Write and improve the project's documentation, [like @CBID2 did for OpenSauced's documentation](https://github.com/open-sauced/docs/pull/151)
 * Curate a folder of examples showing how the project is used
-* Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://news.opensauced.pizza/about/)
+* Start a newsletter for the project, or curate highlights from the mailing list, [like @opensauced did for their product](https://web.archive.org/web/20231001000000*/https://news.opensauced.pizza/about/)
 * Write tutorials for the project, [like PyPA's contributors did](https://packaging.python.org/)
 * Write a translation for the project's documentation, [like @frontendwizard did for the instructions for freeCodeCamp's CSS Flexbox challenge](https://github.com/freeCodeCamp/freeCodeCamp/pull/19077)
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/kittens?s=180" class="pquote-avatar" alt="avatar">
-  Seriously, \[documentation\] is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
+  Seriously, documentation is mega-important. The documentation so far has been great and has been a killer feature of Babel. There are sections that could certainly use some work and even the addition of a paragraph here or there is extremely appreciated.
   <p markdown="1" class="pquote-credit">
 — @kittens, ["Call for contributors"](https://github.com/babel/babel/issues/1347)
   </p>
@@ -181,7 +181,7 @@ A project also has documentation. These files are usually listed in the top leve
 Finally, open source projects use the following tools to organize discussion. Reading through the archives will give you a good picture of how the community thinks and works.
 
 * **Issue tracker:** Where people discuss issues related to the project.
-* **Pull requests:** Where people discuss and review changes that are in progress, whether it's to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint.yml), use certain GitHub Action flows to automate and quicken their code reviews.
+* **Pull/Merge requests:** Where people discuss and review changes that are in progress, whether it's to improve a contributor's line of code, grammar usage, use of images, etc. Some projects, such as [MDN Web Docs](https://github.com/mdn/content/blob/main/.github/workflows/markdown-lint.yml), use certain GitHub Action flows to automate and quicken their code reviews.
 * **Discussion forums or mailing lists:** Some projects may use these channels for conversational topics (for example, _"How do I..."_ or _"What do you think about..."_ instead of bug reports or feature requests). Others use the issue tracker for all conversations. A good example of this would be [CHAOSS' weekly Newsletter](https://chaoss.community/news/)
 * **Synchronous chat channel:** Some projects use chat channels (such as Slack or IRC) for casual conversation, collaboration, and quick exchanges. A good example of this would be [EddieHub's Discord community](http://discord.eddiehub.org/).
 
@@ -189,7 +189,7 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 Now that you've figured out how open source projects work, it's time to find a project to contribute to!
 
-If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said:, _"Ask not what your country can do for you - ask what you can do for your country."_
+If you've never contributed to open source before, take some advice from U.S. President John F. Kennedy, who once said, _"Ask not what your country can do for you - ask what you can do for your country."_
 
 <aside markdown="1" class="pquote">
   <img src="/assets/images/how-to-contribute/johnfkennedy.jpg" class="pquote-avatar" alt="avatar">
@@ -209,7 +209,7 @@ Open source isn't an exclusive club; it's made by people just like you. "Open so
 
 You might scan a README and find a broken link or a typo. Or you're a new user and you noticed something is broken, or an issue that you think should really be in the documentation. Instead of ignoring it and moving on, or asking someone else to fix it, see whether you can help out by pitching in. That's what open source is all about!
 
-> According to a study conducted by Igor Steinmacher and other Computer Science researchers, [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as typo fixes, reformatting, or writing a translation.
+> According to a study conducted by Igor Steinmacher and other Computer Science researchers, [28% of casual contributions](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) to open source are documentation, such as typo fixes, reformatting, or writing a translation.
 
 If you're looking for existing issues you can fix, every open source project has a `/contribute` page that highlights beginner-friendly issues you can start out with. Navigate to the main page of the repository on GitHub, and add `/contribute` at the end of the URL (for example [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -223,7 +223,8 @@ You can also use one of the following resources to help you discover and contrib
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
-* [OpenSauced](https://opensauced.pizza/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
+* [GitLab Explore](https://gitlab.com/explore/projects/trending)
 
 ### A checklist before you contribute
 
@@ -307,7 +308,7 @@ Now do the same for the project's pull requests.
 <div class="clearfix mb-2">
   <input type="checkbox" id="cbox10" class="d-block float-left mt-1 mr-2" value="checkbox">
   <label for="cbox10" class="overflow-hidden d-block text-normal">
-    How many open pull requests are there?
+    How many open pull/merge requests are there?
   </label>
 </div>
 
@@ -389,7 +390,7 @@ Whether you're a one-time contributor or trying to join a community, working wit
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/shubheksha?s=180" class="pquote-avatar" alt="avatar">
-  \[As a new contributor,\] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
+  [As a new contributor,] I quickly realized I had to ask questions if I wanted to be able to close the issue. I skimmed through the code base. Once I had some sense of what was going on, I asked for more direction. And voilà! I was able to solve the issue after getting all the relevant details I needed.
   <p markdown="1" class="pquote-credit">
 — @shubheksha, [A Beginner's Very Bumpy Journey Through The World of Open Source](https://www.freecodecamp.org/news/a-beginners-very-bumpy-journey-through-the-world-of-open-source-4d108d540b39/)
   </p>
@@ -487,6 +488,7 @@ If the project is on GitHub, here's how to submit a pull request:
 * **Reference any relevant issues** or supporting documentation in your PR (for example, "Closes #37.")
 * **Include screenshots of the before and after** if your changes include differences in HTML/CSS. Drag and drop the images into the body of your pull request.
 * **Test your changes!** Run your changes against any existing tests if they exist and create new ones when needed. It's important to make sure your changes don't break the existing project.
+* **Review AI-assisted contributions carefully.** If you use AI tools, verify that the output is accurate, follows project conventions, and addresses the intended issue. Contributors remain responsible for the changes they submit.
 * **Contribute in the style of the project** to the best of your abilities. This may mean using indents, semi-colons or comments differently than you would in your own repository, but makes it easier for the maintainer to merge, others to understand and maintain in the future.
 
 If this is your first pull request, check out [Make a Pull Request](http://makeapullrequest.com/), which @kentcdodds created as a walkthrough video tutorial. You can also practice making a pull request in the [First Contributions](https://github.com/Roshanjossey/first-contributions) repository, created by @Roshanjossey.
@@ -509,7 +511,7 @@ If you give a polite reminder and still do not receive a response, it's possible
 
 It's common that you'll be asked to make changes to your contribution, whether that's feedback on the scope of your idea, or changes to your code.
 
-When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it. A good example of this would be [the feedback that another contributor has given to @a-m-lamb on their pull request to Codecademy's Docs](https://github.com/Codecademy/docs/pull/3239#pullrequestreview-1628036286).
+When someone requests changes, be responsive. They've taken the time to review your contribution. Opening a PR and walking away is bad form. If you don't know how to make changes, research the problem, then ask for help if you need it. A good example of this would be [the feedback that a maintainer has given to @AhmedElTabarani on their pull request to EbookFoundation's free-programming-books](https://github.com/EbookFoundation/free-programming-books/pull/6964).
 
 If you don't have time to work on the issue anymore due to reasons such as the conversation has been going on for months, and your circumstances have changed or you're unable to find a solution, let the maintainer know so that they can open the issue for someone else, like [@RitaDee did for an issue at OpenSauced's app repository](https://github.com/open-sauced/app/issues/1656#issuecomment-1729353346).
 

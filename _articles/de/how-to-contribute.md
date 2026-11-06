@@ -20,7 +20,7 @@ related:
   _Working on \[freenode\] helped me earn many of the skills I later used for my studies in university and my actual job. I think working on open source projects helps me as much as it helps the project!_
 
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -74,7 +74,7 @@ Ein weit verbreiteter Irrtum! Aber in Wirklichkeit sind es oft andere Projektasp
   _I've been renowned for my work on CocoaPods, but most people don't know that I actually don't do any real work on the CocoaPods tool itself. My time on the project is mostly spent doing things like documentation and working on branding._
 
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -217,9 +217,9 @@ Open Source ist kein exklusiver Club, sondern besteht auf Leuten wie Ihnen. "Ope
 
 Sie können eine README überfliegen und einen defekten Link oder einen Tippfehler finden. Oder Sie sind ein\*e neue\*r Benutzer\*in und haben bemerkt, dass etwas kaputt ist, oder ein Problem, das Ihrer Meinung nach wirklich dokumentiert sein sollte. Anstatt es zu ignorieren und weiterzuziehen oder jemand zu bitten, es zu reparieren, können Sie vielleicht selbst mitmachen und mithelfen. Das ist des Pudels Kern bei Open Source!
 
-> [28% der Gelegenheitsbeiträge](https://www.igor.pro.br/publica/papers/saner2016.pdf) zu Open Source betreffen die Dokumentation (z.B. eine Korrektur der Rechtschreibung oder Formatierung, oder das Schreiben einer Übersetzung).
+> [28% der Gelegenheitsbeiträge](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) zu Open Source betreffen die Dokumentation (z.B. eine Korrektur der Rechtschreibung oder Formatierung, oder das Schreiben einer Übersetzung).
 >
-> [28% of casual contributions](https://www.igor.pro.br/publica/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
+> [28% of casual contributions](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) to open source are documentation, such as a typo fix, reformatting, or writing a translation.
 
 Wenn Sie Issues suchen, die Sie beheben könnten, hat jedes Open-Source-Projekt eine Seite, die Neuling-freundliche Issues aufzeigt. Navigieren Sie zur Repository-Hauptseite auf GitHub und fügen Sie `/contribute` der URL hinzu (z.B.[`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -233,6 +233,7 @@ Weiterhin, können Sie auf folgenden Seiten neue Projekte zum Beitragen entdecke
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Eine Checkliste, bevor Sie einen Beitrag leisten
 

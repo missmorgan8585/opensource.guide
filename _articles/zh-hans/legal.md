@@ -53,7 +53,7 @@ redirect_from: /zh-cn/legal/
   </p>
 </aside>
 
-## 我的项目适合什么样的开源许可?
+## 我的项目适合什么样的开源许可？
 
 如果你们是从头开始的，那么使用[MIT License](https://choosealicense.com/licenses/mit/)，不容易出错。它很短，很容易理解，并允许任何人做任何事情，只要他们保留许可证的副本，包括你们的版权声明。如果你们需要，您们能够根据不同的许可协议发布项目。
 
@@ -73,7 +73,7 @@ redirect_from: /zh-cn/legal/
 
 当你们在GitHub上创建了一个新项目，它给你们提供了选择许可协议的选项。包括上面提到的可以使你们的GitHub项目开源的许可协议。如果你们想要了解其他选择，可以通过查阅[choosealicense.com](https://choosealicense.com)找到适合你们项目（即使它[不是软件](https://choosealicense.com/non-software/)）的许可协议。
 
-## 如果我想修改开源许可该怎么办?
+## 如果我想修改开源许可该怎么办？
 
 大多数项目绝不需要更换许可协议。但是情况偶尔有变。
 
@@ -122,7 +122,6 @@ redirect_from: /zh-cn/legal/
 
 * **第三方资源：**你们的项目有其他人创建的依赖或者使用他人的代码？如果这些是开源项目，你们需要遵守第三方资源的开源许可协议。首先，选择与第三方资源的开放源许可协议一起使用的许可协议（见上文）。如果你们的项目修改或者发布第三方开源资源，那么你们法律团队还想知道你们符合第三方开源许可协议的其他条件，例如保留版权声明。如果你们使用了其他没有开源许可协议的代码，那么你们可能会要求第三方资源的维护者[添加一个开源许可协议](https://choosealicense.com/no-license/#for-users)，要是你们得不到许可，你们只能停止使用他们的代码。
 
-
 * **商业机密：**请考虑项目中是否有公司不想对外公开的东西。如果是这样的话，你们只能开源项目的一部分，得保护好公司的商业机密。
 
 * **专利：**你们公司是否申请了与你们项目有关的专利？如果开源源代码，这会对公司的专利进行[公开披露](https://en.wikipedia.org/wiki/Public_disclosure)。可悲的是，你们可能被要求等待（或者公司会重新思考应用程序）。如果你们期望从拥有大量专利组合的公司的员工那里得到贡献，们的法律团队可能希望你们使用来自贡献者的明确专利授权的许可协议（例如Apache 2.0或GPLv3）或其他贡献者协议（见上文）。
@@ -134,13 +133,13 @@ redirect_from: /zh-cn/legal/
 如果你们发布了公司的第一个开源项目，为了能通过，以上这些绰绰有余（不要担心，大多数项目不会引起重大关注）。
 长期来说，你们的法律团队可以做更多的事情，以帮助公司从开源中获得更多，并保持安全：
 
-* **员工贡献策略：**考虑制定一个公司策略，指明你们的员工如何为开源项目贡献。明确的政策将减少你们员工的迷惑，并帮助他们为公司的最佳利益向开源项目做贡献，无论是作为他们工作的一部分还是在自由时间。Rackspace的[Model IP和开源贡献策略](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)就是很好的示例。
+* **员工贡献策略：**考虑制定一个公司策略，指明你们的员工如何为开源项目贡献。明确的政策将减少你们员工的迷惑，并帮助他们为公司的最佳利益向开源项目做贡献，无论是作为他们工作的一部分还是在自由时间。Rackspace的[Model IP和开源贡献策略](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)就是很好的示例。
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars.githubusercontent.com/vanl?s=180" class="pquote-avatar" alt="avatar">
   放弃与补丁相关的知识产权以构建员工知识库和信誉。它表明，公司关心员工的发展，以及让员工有种被赋权和自主的感觉。所有这些好处还导致更高的士气和更好地保留员工。
   <p markdown="1" class="pquote-credit">
-— @vanl, ["A Model IP and Open Source Contribution Policy"](https://processmechanics.com/2015/07/23/a-model-ip-and-open-source-contribution-policy/)
+— @vanl, ["A Model IP and Open Source Contribution Policy"](https://ospo.co/blog/crafting-your-open-source-contribution-policy/)
   </p>
 </aside>
 

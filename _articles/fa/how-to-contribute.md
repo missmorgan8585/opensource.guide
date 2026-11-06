@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   کار کردن در <span dir="rtl">Freenode</span> به من در یادگیری بسیاری از مهارت‌ها کمک کرد و توانستم از آن‌ها در تحقیقات دانشگاهی و شغلم استفاده کنم. فکر می‌کنم به همان اندازه که کار کردن روی پروژه‌های متن باز به پیشبرد پروژه کمک می‌کند به همان اندازه به من هم کمک می‌کند!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   من شهرتم را از کار در <span dir="rtl">CocoaPods</span> به دست آوردم، اما بیشتر مردم نمی‌دانند که من واقعاً هیچ کار واقعی با ابزار <span dir="rtl">CocoaPods</span> انجام نمی‌دادم. زمانم در آن پروژه بیشتر روی چیزهایی مانند اسناد یا کار روی برندسازی صرف می‌شد.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -201,7 +201,7 @@ related:
 
 شما در پروژه‌های متن باز می‌توانید فایل <span dir="rtl">README</span> را مطالعه، لینک‌های خراب و غلط‌های املائی را پیدا و برطرف کنید. شما و کاربران جدیدتان هم می‌توانند متوجه مشکل یا مسئله‌ای شوند که فکر کی‌کند باید از اسناد پروژه باشد. به جای نادیده گرفتن، عبور کردن یا سپردن آن مسائل به افراد دیگر، برای اصلاح آن مشکلات می‌توانید کمک کنید. این تمام چیزی است که یک پروژه‌ی متن باز می‌تواند داشته باشد!
 
-> [28% از مشارکت‌کننده‌های معمولی](https://www.igor.pro.br/publica/papers/saner2016.pdf) روی اسناد پروژه‌ی متن باز مانند اصلاح غلط‌های املائی، شکل ‌دهی مجدد، یا نوشتن ترجمه مشارکت می‌کنند.
+> [28% از مشارکت‌کننده‌های معمولی](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) روی اسناد پروژه‌ی متن باز مانند اصلاح غلط‌های املائی، شکل ‌دهی مجدد، یا نوشتن ترجمه مشارکت می‌کنند.
 
 اگر به دنبال مسائل موجود پروژه‌ی متن بازتان هستید تا آن را برطرف کنید، می‌توانید وارد صفحه‌ی <span dir="rtl">`/contribute`</span> هر پروژه‌ی متن باز شوید که مشکلات را برای تازه‌واردها برجسته می‌کند. شما می‌توانید با حل کردن آن مشکلات، در مشارکت پروژه‌ی متن باز همکاری داشته باشد. برای این منظور می‌توانید به صفحه‌ی اصلی <span dir="rtl">repository</span>  (مخزن) در سایت <span dir="rtl">GitHub</span> مراجعه کنید و کلمه‌ی <span dir="rtl">`/contribute`</span> را به انتهای آدرس URL آن اضافه کنید. به عنوان مثال:
 [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
@@ -215,7 +215,8 @@ related:
 * [24 Pull Requests](https://24pullrequests.com/)
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
-* [SourceSort](https://www.sourcesort.com/)
+* [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### بررسی چک لیست قبل از مشارکت در پروژه‌ی متن باز
 

@@ -20,15 +20,16 @@ $section_translation: (
         "ms": "",
         "nl": "Sectie",
         "pl": "Rozdział",
-        "pt": "",
+        "pt": "Seção",
         "ro": "",
         "ru": "",
-        "ta": "",
+        "ta": "பிரிவு",
         "tr": "",
         "zh-hant": "章節",
         "zh-hans": "章节",
         "pcm": "Portion",
         "sw": "Sehemu ya",
+        "ar":"قسم"
 );
 
 @each $locale, $translation in $section_translation {

@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   Работа над \[freenode\] помогла мне приобрести многие навыки, которые я позже использовал в учебе в университете и в текущей работе. Я думаю, что работа над проектами с открытым исходным кодом помогает мне не меньше, чем самому проекту!
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Почему я люблю участвовать в работе над опенсорс-софтом"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Почему я люблю участвовать в работе над опенсорс-софтом"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   Я известен своей работой над CocoaPods, но большинство людей не знают, что я на самом деле не работаю над самим инструментом CocoaPods. В основном, я занимаюсь документацией и брендингом.
   <p markdown="1" class="pquote-credit">
-— @orta, ["Переход на открытый исходный код по умолчанию"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Переход на открытый исходный код по умолчанию"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -201,7 +201,7 @@ related:
 
 Можно просмотреть файл README, чтобы найти неработающую ссылку или опечатку. Или вы как новый пользователь заметили, что что-то работает неправильно, либо есть неточность в документации. Вместо игнорирования таких проблем или просьбы к кому-нибудь их исправить, посмотрите, удастся ли вам помочь и тем самым поучаствовать в проекте. В этом как раз и смысл опенсорса!
 
-> [28% случайных вкладов](https://www.igor.pro.br/publica/papers/saner2016.pdf) в опенсорс представляют собой документацию, например, исправление опечатки, переформатирование или перевод.
+> [28% случайных вкладов](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) в опенсорс представляют собой документацию, например, исправление опечатки, переформатирование или перевод.
 
 Если вы ищете существующие ишью, которые можно исправить, то в каждом опенсорс-проекте есть страница `/contribute`, где перечислены ишью, специально предназначенные для начинающих. Перейдите на главную страницу репозитория на GitHub и добавьте в конец URL-адреса `/contribute` (например, [https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -215,6 +215,7 @@ related:
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Чеклист перед тем, как принять участие
 

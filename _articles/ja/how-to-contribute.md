@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar">
   \[freenode\] で働くことで、その後の大学での勉強や実際の仕事をする上で役に立つたくさんのスキルを身につけることができました。オープンソースプロジェクトにコントリビュートすることは、プロジェクトを前進させると共に私自身への助けにもなりました！
   <p markdown="1" class="pquote-credit">
-— @errietta, ["Why I love contributing to open source software"](https://www.errietta.me/blog/open-source/)
+— @errietta, ["Why I love contributing to open source software"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -62,7 +62,7 @@ related:
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   私は CocoaPods での仕事で有名になってきましたが、多くの人は私が CocoaPods 自体に対する仕事をほとんどしていないということを知らないのです。このプロジェクトでの私の時間はほとんどがドキュメントを書いたり、ブランディングのしごとをすることに費やされているのです。
   <p markdown="1" class="pquote-credit">
-— @orta, ["Moving to OSS by default"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+— @orta, ["Moving to OSS by default"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -197,7 +197,7 @@ related:
 
 README を読んで、壊れたリンクやタイポを見つけるかもしれません。もしくは、あなたは新しいユーザーで、何かが壊れていたり、ドキュメントに書かれているべきと考えるイシューがあるかもしれません。それを無視して先に進んだり、他の誰かに直してとお願いする代わりに、あなたが参加することで手助けができないかどうか確かめてみましょう。これがオープンソースというものなのです！
 
-> オープンソースへの[ふとしたコントリビュートの28%](https://www.igor.pro.br/publica/papers/saner2016.pdf) がタイポの修正やフォーマットの修正や翻訳といったドキュメントに対するものなのです。
+> オープンソースへの[ふとしたコントリビュートの28%](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) がタイポの修正やフォーマットの修正や翻訳といったドキュメントに対するものなのです。
 
 また、新しいプロジェクトを見つけてコントリビュートする手助けとして、次のようなリソースのうちの一つを使うこともできます:
 
@@ -209,6 +209,7 @@ README を読んで、壊れたリンクやタイポを見つけるかもしれ�
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### コントリビュートする前のチェックリスト
 

@@ -16,7 +16,7 @@ related:
   <img src="https://avatars.githubusercontent.com/errietta?s=180" class="pquote-avatar" alt="avatar"> 
   \[Freenode\] üzerinde çalışmak, daha sonra üniversitedeki çalışmalarımda ve gerçek işimde kullandığım becerilerin çoğunu kazanmama yardımcı oldu. Açık kaynak kodlu projeler üzerinde çalışmanın projeye yardım ettiği kadar yapana da yardımcı olacağını düşünüyorum!
   <p markdown="1" class="pquote-credit">
-- @errietta, ["Açık kaynaklı yazılımlara katkıda bulunmayı neden seviyorum"](https://www.errietta.me/blog/open-source/)
+- @errietta, ["Açık kaynaklı yazılımlara katkıda bulunmayı neden seviyorum"](https://web.archive.org/web/20251207070642/https://www.errietta.me/blog/open-source/)
   </p>
 </aside>
 
@@ -66,7 +66,7 @@ Açık kaynağa katkıda bulunma konusunda yaygın bir yanılgı, kod yazarak ka
   <img src="https://avatars.githubusercontent.com/orta?s=180" class="pquote-avatar" alt="avatar">
   CocoaPods'taki çalışmamla ünlüydüm, ama çoğu insan CocoaPods aracının kendisinde gerçek bir iş yapmadığımı bilmiyor. Projedeki zamanım çoğunlukla belgeleme ve markalaşma gibi şeyler yapmakla geçiyor.
   <p markdown="1" class="pquote-credit">
-- @orta, ["Varsayılan olarak OSS’ye taşıma"](https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
+- @orta, ["Varsayılan olarak OSS’ye taşıma"](https://web.archive.org/web/20190922123729/https://academy.realm.io/posts/orta-therox-moving-to-oss-by-default/)
   </p>
 </aside>
 
@@ -201,7 +201,7 @@ Açık kaynak bir seçilmişler kulübü değildir; tıpkı senin gibi insanlar 
 
 Bir README tarayabilir ve bozuk bir link ya da yazım hatası bulabilirsiniz. Ya da yeni bir kullanıcısınız ve bir şeylerin bozuk olduğunu ya da belgelerde gerçekten olması gerektiğini düşündüğünüz bir eksikliğin olduğunu fark ettiniz. Bunu görmezden gelip devam etmek ya da başka birinden düzeltmesini istemek yerine, araya girip düzeltebileceğinizi görün. Bakın açık kaynak budur!
 
-> [Gündelik katkıların %28'i](https://www.igor.pro.br/publica/papers/saner2016.pdf) açık kaynağa yeniden biçimlendirme veya bir çeviri yazarken böyle bir yazım hatası düzeltme gibi belgelerdir.
+> [Gündelik katkıların %28'i](https://www.ime.usp.br/~gerosa/papers/saner2016.pdf) açık kaynağa yeniden biçimlendirme veya bir çeviri yazarken böyle bir yazım hatası düzeltme gibi belgelerdir.
 
 Düzeltebileceğiniz açık sorunları arıyorsanız, her açık kaynak projenin başlayabileceğiniz acemi dostu sorunları vurgulayan bir `/contribute` sayfası vardır. GitHub'taki deponun ana sayfasına gidin ve URL'nin sonuna `/contrib` ekleyin (Örneğin [`https://github.com/facebook/react/contribute`](https://github.com/facebook/react/contribute)).
 
@@ -215,6 +215,7 @@ Yeni projeleri keşfetmenize ve katkıda bulunmanıza yardımcı olmak için aş
 * [Up For Grabs](https://up-for-grabs.net/)
 * [First Contributions](https://firstcontributions.github.io)
 * [SourceSort](https://web.archive.org/web/20201111233803/https://www.sourcesort.com/)
+* [OpenSauced](https://web.archive.org/web/20250911171437/https://opensauced.pizza/)
 
 ### Katkıda bulunmadan önce üzerinden geçilebilecek bir kontrol listesi
 
